@@ -1,7 +1,0 @@
-steps to be followed
-
-hai-build-maven
-1.pull the source code from https://github.com/TOPGUN2022/hai-src 
-
-2.build the code,using maven
-    mvn clean pacakage
